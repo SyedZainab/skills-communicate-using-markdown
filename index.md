@@ -11,3 +11,19 @@ Added Headers to index.md
 
 Here's an image of a cute cat:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Welcome to My Website
+
+Here's a simple C# code example:
+```csharp
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Print "Hello, world!" to the console
+        Console.WriteLine("Hello, world!");
+    }
+}
+```
