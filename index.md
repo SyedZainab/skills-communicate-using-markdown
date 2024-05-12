@@ -27,3 +27,8 @@ class Program
     }
 }
 ```
+- [x] Upload the image of a cat
+- [x] Add alt-text for the cat image
+- [x] Create a C# code example
+- [x] Add the C# code example to the file
+- [ ] Update the README.md file
